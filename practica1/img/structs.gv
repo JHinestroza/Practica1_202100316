@@ -1,0 +1,4 @@
+digraph structs {
+	node [fontname=Helvetica shape=none]
+	n [label=<<table><tr><td width="60" height="60" border="2" bgcolor="#c8649f">60</td><td width="60" height="60" border="2" bgcolor="#e4db6f">60</td><td width="60" height="60" border="2" bgcolor="#f159b7">60</td><td width="60" height="60" border="2" bgcolor="#aa387d">60</td><td width="60" height="60" border="2" bgcolor="#c11c3b">60</td><td width="60" height="60" border="2" bgcolor="#f29ec9">60</td><td width="60" height="60" border="2" bgcolor="#fe1158">60</td></tr></table>>]
+}
